@@ -1,4 +1,4 @@
-# SSL 정리 문서
+# SSL
 
 ## 1. SSL 이란?
 SSL(Secure Sockets Layer)은 인터넷에서 데이터를 안전하게 전송하기 위해 사용하는 보안 프로토콜
