@@ -1,4 +1,3 @@
-````md
 # Nginx / Docker Compose / Spring 로그 운영 가이드
 
 > 이 문서는 Nginx, Docker Compose, Spring Boot 로그를 처음 접하는 개발자도 운영 구조를 이해하고 장애를 점검할 수 있도록 정리한 문서이다.  
